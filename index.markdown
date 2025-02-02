@@ -5,4 +5,11 @@
 layout: default
 ---
 
-Hello World, soon launch
+# Hello World
+##  Soon Launching 
+
+```python
+# This is a simple Python Hello World example
+print("Hello, World!")
+}
+```
