@@ -11,5 +11,4 @@ layout: default
 ```python
 # This is a simple Python Hello World example
 print("Hello, World!")
-}
 ```
