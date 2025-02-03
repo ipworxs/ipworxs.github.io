@@ -14,7 +14,6 @@ layout: default
 print("Hello, World!")
 ```
 
-
 # Posts 
 <ul>
   {% for post in site.posts %}
