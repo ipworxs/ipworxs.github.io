@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ipworxs
+title: IPworxs
 email: 3nt0n@ipworxs.ch
 description: >- # this means to ignore newlines until "baseurl:"
     Stay ahead in the world of cybersecurity! Here, you’ll find expert insights, latest threats, security tips, and in-depth guides to keep you informed and protected.
