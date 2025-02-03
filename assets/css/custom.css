@@ -1,10 +1,3 @@
-/* Custom styles to override remote theme */
-body {
-    background-color: #ffcc00; /* Dark mode */
-    color: #ffffff;
-  }
-  
-  h1 {
-    font-size: 2.5rem;
-    color: #ffcc00;
+body h1 {
+    color: red !important;
   }
