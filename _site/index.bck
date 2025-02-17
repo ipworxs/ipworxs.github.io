@@ -28,21 +28,20 @@
 
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Topic 1 | blog.ipworxs.ch</title>
+<title>blog.ipworxs.ch | Blog about Threat Detection, Deception and other related Cyber Security Stuff</title>
 <meta name="generator" content="Jekyll v4.4.1" />
-<meta property="og:title" content="Topic 1" />
+<meta property="og:title" content="blog.ipworxs.ch" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Test Blog" />
-<meta property="og:description" content="Test Blog" />
-<link rel="canonical" href="http://localhost:4000/offense/2025/02/02/blog1.html" />
-<meta property="og:url" content="http://localhost:4000/offense/2025/02/02/blog1.html" />
+<meta name="description" content="Blog about Threat Detection, Deception and other related Cyber Security Stuff" />
+<meta property="og:description" content="Blog about Threat Detection, Deception and other related Cyber Security Stuff" />
+<link rel="canonical" href="http://localhost:4000/index.bck" />
+<meta property="og:url" content="http://localhost:4000/index.bck" />
 <meta property="og:site_name" content="blog.ipworxs.ch" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2025-02-02T18:50:39+01:00" />
+<meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Topic 1" />
+<meta property="twitter:title" content="blog.ipworxs.ch" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-02-02T18:50:39+01:00","datePublished":"2025-02-02T18:50:39+01:00","description":"Test Blog","headline":"Topic 1","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/offense/2025/02/02/blog1.html"},"url":"http://localhost:4000/offense/2025/02/02/blog1.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Blog about Threat Detection, Deception and other related Cyber Security Stuff","headline":"blog.ipworxs.ch","url":"http://localhost:4000/index.bck"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -66,16 +65,23 @@
 
     <div class="container">
       <section id="main_content">
-        <small>2 February 2025</small>
-<h1>Topic 1</h1>
+        # Welcome
+Welcome to my blog, where i explore Threat Detection, Deception, and cutting-edge Cybersecurity strategies. Stay ahead of emerging threats, discover innovative defense tactics, and enhance your security mindset.
 
-<p class="view">by </p>
+# Posts 
+<ul>
+  
+    <li>
+      <a href="/offense/2025/02/02/blog2.html">2025-02-02 18:50:39 +0100 -  Topic 2  </a>
+    </li>
+  
+    <li>
+      <a href="/offense/2025/02/02/blog1.html">2025-02-02 18:50:39 +0100 -  Topic 1  </a>
+    </li>
+  
+</ul>
 
-<p>Test Blog</p>
 
-
-
-  <small>tags: <em></em></small>
 
 
       </section>

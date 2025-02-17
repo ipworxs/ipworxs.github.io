@@ -4,12 +4,10 @@
 
 layout: default
 mermaid: true
+permalink: /blog/
 ---
 
-# Welcome
-Welcome to my blog, where i explore Threat Detection, Deception, and cutting-edge Cybersecurity strategies. Stay ahead of emerging threats, discover innovative defense tactics, and enhance your security mindset. 
-
-The blog is still in development, but stay tuned for insightful content 
+Under Construction
 
 # Posts 
 <ul>
@@ -19,6 +17,4 @@ The blog is still in development, but stay tuned for insightful content
     </li>
   {% endfor %}
 </ul>
-
-
 

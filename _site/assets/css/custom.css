@@ -1,3 +1,30 @@
+header a {
+  font-size: 18px;
+  font-weight: 300;
+  color: #b5e853;
+  text-decoration: none;
+  padding-right: 50px;
+
+}
+header p {
+
+}
+
+.imgcontainer {
+  position: relative; /* Ensures absolute positioning is relative to this div */
+  width: 300px;  /* Adjust as needed */
+  height: 200px; /* Adjust as needed */
+  border: 1px solid #ccc;
+}
+
+.floating-img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 150px;  /* Adjust as needed */
+  height: auto;  /* Maintains aspect ratio */
+}
+
 footer {
     background: rgba(0, 0, 0, 0.1);
     width: 100%;
